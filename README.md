@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Danila and I'm a Fullstack WEB developer, CEO script.agency</h2>
+<h2 align="left">Hi 👋! My name is Danila and I'm a Fullstack WEB developer, CEO <a href="https://thescript.agency">Script Agency</a></h2>
 
 ###
 
